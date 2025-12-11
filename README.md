@@ -12,10 +12,10 @@
 I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**, deeply interested in **mobile development, backend engineering, and system design**.
 
 I enjoy working on:
-- Modern **Flutter apps** with clean architecture  
+- Modern **Flutter apps**   
 - **Node.js + MongoDB backends**  
 - **REST APIs**, authentication flows, and role-based systems  
-- Real-time communication systems and background jobs  
+- Real-time systems  
 - AI-assisted decision systems & automation  
 
 I believe software should be **simple, clean, and reliable** — built with purpose, not just technology.
