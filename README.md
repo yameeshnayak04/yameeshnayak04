@@ -1,59 +1,58 @@
 <h1 align="center">Hi there, I'm Yameesh 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer • Backend Engineer • Real-Time Systems Enthusiast</strong><br/>
-  Passionate about building reliable, scalable and cleanly architected software.
+  <strong>Software Developer • Backend Engineer • Systems & Reliability Enthusiast</strong><br/>
+  Focused on building reliable, scalable production software and real-world solutions.
 </p>
 
 ---
 
 ## 🪪 About Me
 
-I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**, deeply interested in **mobile development, backend engineering, and system design**.
+I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**. I focus on designing and building production-ready software, backend systems, and scalable architectures that solve real-world problems.
 
 I enjoy working on:
-- Modern **Flutter apps**   
-- **Node.js + MongoDB backends**  
-- **REST APIs**, authentication flows, and role-based systems  
-- Real-time systems  
-- AI-assisted decision systems & automation  
+- **Backend systems & APIs** (designing robust, maintainable services)
+- **Real-world software solutions** with reliability and observability in mind
+- **Node.js + MongoDB backends** and service integrations
+- **REST APIs**, authentication flows, and role-based access control
+- Real-time systems and event-driven architectures
+- AI-assisted decision systems & automation
+- Mobile applications with **Flutter** (as a complementary focus)
 
-I believe software should be **simple, clean, and reliable** — built with purpose, not just technology.
-
-I’m continuously learning, exploring new technologies, and improving my understanding of **DSA, distributed systems, and scalable architectures**.
+I believe software should be **simple, reliable, and maintainable**—built with purpose and production-readiness.
 
 ---
 
 ## 🧰 Tech Stack
 
 ### **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ### **Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-000?logo=socket.io&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-44CCFF?logo=flutter&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-44CCFF?logo=flutter&logoColor=white)
 
 ---
 
 ## 🎯 What I’m Learning
 
-- Advanced Flutter Architecture  
-- Backend Optimization & Caching  
-- Redis, BullMQ & Job Queues  
-- System Design & API Design Principles  
-- Real-Time Systems (WebSockets + Events)  
-
+- Backend optimization, caching strategies, and performance tuning
+- System design, API design principles, and scalable architectures
+- Observability, monitoring, testing, and CI/CD for production systems
+- Real-time systems and event-driven architectures (WebSockets, event buses)
+- Cloud-native patterns, containerization, and deployment automation
+- Advanced Flutter architecture and mobile tooling (as a complementary focus)
 ---
 
 ## 📊 GitHub Stats
