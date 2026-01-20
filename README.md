@@ -61,7 +61,8 @@ I believe software should be **simple, reliable, and maintainable**—built with
 
 ## 🏆 Achievements & Activity
 
-- Coordinator @ **#include SGSITS** (official techno-learning club)  
+- Coordinator @ **#include SGSITS** (official techno-learning club)
+- **Head of Management** at **HackIndore 3.0** , managed participation of 180+ teams.
 - Strong involvement in technical communities and hackathons  
 
 ---
