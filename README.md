@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yameesh 👋</h1>
+<h1 align="center">Hi there, I'm Yameesh </h1>
 
 <p align="center">
   <strong>Software Developer • Backend Engineer • Systems & Reliability Enthusiast</strong><br/>
@@ -7,9 +7,9 @@
 
 ---
 
-## 🪪 About Me
+## About Me
 
-I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**. I focus on designing and building production-ready software, backend systems, and scalable architectures that solve real-world problems.
+I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**. Shipped YES app in production deployed on **Google Play Store**.
 
 I enjoy working on:
 - **Backend systems & APIs** (designing robust, maintainable services)
@@ -24,7 +24,7 @@ I believe software should be **simple, reliable, and maintainable**—built with
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -45,7 +45,7 @@ I believe software should be **simple, reliable, and maintainable**—built with
 
 ---
 
-## 🎯 What I’m Learning
+## What I’m Learning
 
 - Backend optimization, caching strategies, and performance tuning
 - System design, API design principles, and scalable architectures
@@ -55,19 +55,19 @@ I believe software should be **simple, reliable, and maintainable**—built with
 - Advanced Flutter architecture and mobile tooling (as a complementary focus)
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ---
 
-## 🏆 Achievements & Activity
+## Achievements & Activity
 
 - Coordinator @ **#include SGSITS** (official techno-learning club)
 - **Head of Management** at **HackIndore 3.0** , managed participation of 180+ teams.
-- Strong involvement in technical communities and hackathons  
+- Built a **YES** Yoga Essentials application Deployed on **Google Play Store**.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/yameesh-nayak-82646b280"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
@@ -78,5 +78,5 @@ I believe software should be **simple, reliable, and maintainable**—built with
 ---
 
 <p align="center">
-  ✨ <em>“Code with clarity. Build with purpose.”</em> ✨
+  <em>“Code with clarity. Build with purpose.”</em>
 </p>
