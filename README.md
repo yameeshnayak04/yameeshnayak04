@@ -1,82 +1,107 @@
-<h1 align="center">Hi there, I'm Yameesh </h1>
+<h1 align="center">Yameesh Nayak</h1>
 
 <p align="center">
-  <strong>Software Developer • Backend Engineer • Systems & Reliability Enthusiast</strong><br/>
-  Focused on building reliable, scalable production software and real-world solutions.
+  <strong>Software Engineer • Backend Systems • Scalable Architecture</strong><br/>
+  Building reliable, production-grade software systems with a focus on performance, maintainability, and real-world impact.
 </p>
 
 ---
 
-## About Me
+## About
 
-I’m an Information Technology undergraduate at **Shri G.S. Institute of Technology & Science (SGSITS), Indore**. Shipped YES app in production deployed on **Google Play Store**.
+I am an Information Technology undergraduate at **Shri Govindram Seksaria Institute of Technology & Science (SGSITS), Indore**.
 
-I enjoy working on:
-- **Backend systems & APIs** (designing robust, maintainable services)
-- **Real-world software solutions** with reliability and observability in mind
-- **Node.js + MongoDB backends** and service integrations
-- **REST APIs**, authentication flows, and role-based access control
-- Real-time systems and event-driven architectures
-- AI-assisted decision systems & automation
-- Mobile applications with **Flutter** (as a complementary focus)
+I focus on designing and building **scalable backend systems**, clean APIs, and production-ready applications. I have experience shipping real-world applications, including the **YES Yoga Wellness platform**, deployed on the **Google Play Store**.
 
-I believe software should be **simple, reliable, and maintainable**—built with purpose and production-readiness.
+My work centers around:
+- Designing **robust backend services and APIs**
+- Building **reliable systems with strong data integrity**
+- Implementing **authentication, authorization, and access control**
+- Working with **real-time systems and asynchronous workflows**
+- Developing **end-to-end applications** with practical use cases
+
+I approach software with a strong emphasis on:
+- Simplicity and clarity in design  
+- Maintainable and testable code  
+- System reliability and correctness  
+
+---
+
+## Technical Focus
+
+- Backend system design and API architecture  
+- Data modeling, indexing, and query optimization  
+- Role-based access control and authentication flows  
+- Real-time systems and event-driven patterns  
+- Background processing and task scheduling  
+- Building production-ready applications  
 
 ---
 
 ## Tech Stack
 
-### **Languages**
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-### **Frameworks & Tools**
+### Systems & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
+### Application Layer
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-44CCFF?logo=flutter&logoColor=white)
 
 ---
 
-## What I’m Learning
+## Currently Working On
 
-- Backend optimization, caching strategies, and performance tuning
-- System design, API design principles, and scalable architectures
-- Observability, monitoring, testing, and CI/CD for production systems
-- Real-time systems and event-driven architectures (WebSockets, event buses)
-- Cloud-native patterns, containerization, and deployment automation
-- Advanced Flutter architecture and mobile tooling (as a complementary focus)
----
-
-## GitHub Stats
+- Improving backend performance and query efficiency  
+- Learning scalable system design patterns  
+- Exploring real-time architectures and event-driven systems  
+- Building structured, production-grade APIs  
+- Strengthening fundamentals in data structures and algorithms  
 
 ---
 
-## Achievements & Activity
+## Selected Work
 
-- Coordinator @ **#include SGSITS** (official techno-learning club)
-- **Head of Management** at **HackIndore 3.0** , managed participation of 180+ teams.
-- Built a **YES** Yoga Essentials application Deployed on **Google Play Store**.
+- Built and shipped **YES Yoga Wellness Application** (live on Play Store)  
+- Developed **MessHub**, a full-stack system for attendance tracking and automated billing  
+- Worked on **Vaani-Nyay**, a voice-driven legal aid platform for multilingual accessibility  
 
 ---
 
-## Connect With Me
+## Achievements
+
+- Solved **400+ problems on LeetCode** (strong DSA foundation)  
+- **2★ CodeChef**  
+- Finalist at **HACKSAGON (ABV-IIITM Gwalior)**  
+- **Head of Management**, HackIndore 3.0 (180+ teams managed)  
+
+---
+
+## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yameesh-nayak-82646b280"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nayak.yameesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YameeshNayak04"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yameesh-nayak-82646b280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nayak.yameesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YameeshNayak04">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Code with clarity. Build with purpose.”</em>
+  <em>Focused on building systems that are simple, reliable, and built to scale.</em>
 </p>
